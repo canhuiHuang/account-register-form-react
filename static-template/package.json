@@ -1,5 +1,6 @@
 {
   "version": "0.0.0",
+  "author": "Canhui Huang",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
